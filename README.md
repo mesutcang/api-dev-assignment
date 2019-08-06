@@ -2,7 +2,7 @@
 
 ## 1. How to run
 ```
-$ git clone https://github.com/mesutcang/api-developer-assignment.git
+$ git clone https://github.com/mesutcang/api-dev-assignment.git
 $ mvn spring-boot:run
 
 ```
