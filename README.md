@@ -16,7 +16,7 @@ http://localhost:8080/swagger-ui.html
 
 There are 2 endpoints:
 
-###Categorised Transaction List
+### Categorised Transaction List
 
 Get the transaction list for given category
 ```
@@ -26,7 +26,7 @@ HTTP GET /v1/{categoryId}
 
 categoryId as b6as2
 
-###Categorised Transaction List
+### Categorised Transaction List
 
 Update the category info for given transaction
 ```
